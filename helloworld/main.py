@@ -1,9 +1,9 @@
 import sys
 
-adef main(argv=None):
+def main(argv=None):
     if argv is None:
         argv = sys.argv
 
-    print ("H")
+    print ("works")
 
     return 0
